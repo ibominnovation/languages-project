@@ -4,5 +4,5 @@ Using the best-of-breed cutting edge app development, artificial intelligence et
 ## References
 - http://yorubaname.com
 - https://sautidb.web.app
-- https://masakhane.io
+- https://www.masakhane.io
 - https://www.sciencedirect.com/science/article/abs/pii/S016763931300023X
